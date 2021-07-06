@@ -26,9 +26,6 @@ Ask me anything <a href="https://github.com/amzotelli/amzotelli/issues/new"><b>h
 
 </br>
 </br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
 ---
