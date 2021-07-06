@@ -5,13 +5,13 @@
 
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1625613046317.png" alt="Welcome!" width="350px"/>
 
 </div>
 
 <div align="center"><br>
 
-You have finally discovered my Github profile. <br>
+Welcome! You have finally discovered my Github profile. <br>
 My pronouns are She/Her. I'm a Brazilian Web Development Student at <a href="https://github.com/betrybe"><b>Trybe</b></a> and a Graphic Designer. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/amzotelli/amzotelli/issues/new"><b>here</b></a> or <a href="mailto:amzotelli@gmail.com"><b>email</b></a> me. You can checkout my behance page <a href="https://www.behance.net/amzotelli"><b>here</b></a>!<br>
