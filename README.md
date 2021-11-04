@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1636049082659.png alt="Character with curly hair, tattooed arm and holding a notebook." width="350px"/>
+<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1636049082659.png" alt="Character with curly hair, tattooed arm and holding a notebook." width="350px"/>
 
 </div>
 
