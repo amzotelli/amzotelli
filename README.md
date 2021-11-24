@@ -26,13 +26,14 @@ Ask me anything <a href="https://github.com/amzotelli/amzotelli/issues/new"><b>h
 </br>
 </br>
 
-
----
+<!--
 
 <i>Follow me around the web:</i><br>
 
   <!-- <a target="_blank" href="https://www.linkedin.com/in/amzotelli/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
   <a target="_blank" href="https://open.spotify.com/user/amzotelli?si=0f5ee520b194433c">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>-->
+
+<!--
 
 <a href="https://www.linkedin.com/in/amzotelli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://open.spotify.com/user/amzotelli?si=0f5ee520b194433c" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
@@ -56,5 +57,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
------
 Credits: [ABSphreak](https://github.com/ABSphreak)
