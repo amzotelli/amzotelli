@@ -9,11 +9,13 @@
 </div>
 
 <div align="center"><br>
-
-Welcome! You have finally discovered my Github profile. <br>
-My pronouns are She/Her. I'm a Brazilian Web Development Student at <a href="https://github.com/betrybe"><b>Trybe</b></a> and a Graphic Designer. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/amzotelli/amzotelli/issues/new"><b>here</b></a> or <a href="mailto:amzotelli@gmail.com"><b>email</b></a> me. You can checkout my behance page <a href="https://www.behance.net/amzotelli"><b>here</b></a>!<br>
+  
+ 
+Hi, how are you?! You have finally discovered my Github profile. <br>
+I'm Amanda, my pronouns are She/Her, and I'm a Graphic Designer in career transition to Full Stack Development. <br>
+I study Software Development at <a href="https://github.com/betrybe"><b>Trybe</b></a>, where I've already completed the Fundamentals and Front End modules. <br>
+I'm an enthusiast of collaborative work. Always learning new things, about different subjects, is my fuel! <br>
+Feel free to <a href="mailto:amzotelli@gmail.com"><b>email</b></a> me. You can checkout my behance page <a href="https://www.behance.net/amzotelli"><b>here</b></a>!<br>
 
 <i>Happy Coding!</i> 😊
 
