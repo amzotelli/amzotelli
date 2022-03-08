@@ -1,62 +1,22 @@
-<div align="center">
+<div align="left">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div><br>
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amzotelli)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amzotelli@gmail.com)
+- 🧚 I'm Amanda and my pronouns are she/her<br>
+- 💻 I'm a Graphic Designer in career transition to Full Stack Development<br>
+- 👩‍🎓 I study Software Development at <a href="https://github.com/betrybe"><b>Trybe</b></a> where...</br> 
+- 🔡 ... I'm currently at the Back-End module, learning Object-oriented programming & Typescript<br>
+- ✨ I'm an enthusiast of collaborative work. Always learning new things, about different subjects, is my fuel! 🔥<br>
+- 🐶 Fun fact: I love animals and I own of several pets <br><br>
+
+#### ``` • 𝚂𝚔𝚒𝚕𝚕𝚜```
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="43"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="43"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" />
+
+<div align="left"><br><br>
+
+[![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amzotelli&count_private=true&show_icons=true&theme=dracula&border_radius=10&hide_border=true&hide=issues&)](https://github.com/anuraghazra/github-readme-stats)  
 </div>
 
-<div align="center" width="50">
-
-<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1636049082659.png" alt="Character with curly hair, tattooed arm and holding a notebook." width="350px"/>
-
-</div>
-
-<div align="center"><br>
-  
- 
-Hi, how are you?! You have finally discovered my Github profile. <br>
-I'm Amanda, my pronouns are She/Her, and I'm a Graphic Designer in career transition to Full Stack Development. <br>
-I study Software Development at <a href="https://github.com/betrybe"><b>Trybe</b></a>, where I've already completed the Fundamentals and Front End modules. <br>
-I'm an enthusiast of collaborative work. Always learning new things, about different subjects, is my fuel! <br>
-Feel free to <a href="mailto:amzotelli@gmail.com"><b>email</b></a> me. You can checkout my behance page <a href="https://www.behance.net/amzotelli"><b>here</b></a>!<br>
-
-<i>Happy Coding!</i> 😊
-
-</div>
-
-<div align="center">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=amzotelli&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="amzotelli's Github Stats">
-
-</br>
-</br>
-
-<!--
-
-<i>Follow me around the web:</i><br>
-
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/amzotelli/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  <a target="_blank" href="https://open.spotify.com/user/amzotelli?si=0f5ee520b194433c">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>-->
-
-<!--
-
-<a href="https://www.linkedin.com/in/amzotelli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://open.spotify.com/user/amzotelli?si=0f5ee520b194433c" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-
-</div>
-
-<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/amzotelli/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/amzotelli?si=0f5ee520b194433c) -->
-
-<!--
-**ABSphreak/ABSphreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Credits: [ABSphreak](https://github.com/ABSphreak)
