@@ -4,6 +4,8 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amzotelli)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amzotelli@gmail.com)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-forestgreen?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/amzotelli)
+
 - 🧚 I'm Amanda and my pronouns are she/her<br>
 - 💻 I'm a Graphic Designer in career transition to Full Stack Development<br>
 - 👩‍🎓 I study Software Development at <a href="https://github.com/betrybe"><b>Trybe</b></a> where...</br> 
