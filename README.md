@@ -19,8 +19,8 @@
 
 <div align="left"><br><br>
 <a href="https://github.com/amzotelli">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=amzotelli&show_icons=true&theme=dracula&border_radius=10&hide_border=true&hide=issues&count_private=true" />    
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amzotelli&layout=compact&langs_count=4&theme=dracula&border_radius=10&hide_border=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=amzotelli&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&hide=issues&count_private=true" />    
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amzotelli&layout=compact&langs_count=6&theme=tokyonight&border_radius=10&hide_border=true"/>
 </div>
   <br>
  
