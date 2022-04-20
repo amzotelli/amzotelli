@@ -9,7 +9,7 @@
 - 🧚 I'm Amanda and my pronouns are she/her<br>
 - 💻 I'm a Graphic Designer in career transition to Full Stack Development<br>
 - 👩‍🎓 I study Software Development at <a href="https://github.com/betrybe"><b>Trybe</b></a> where...</br> 
-- 🔡 ... I'm currently at the Back-End module, learning Object-oriented programming & Typescript<br>
+- 🔡 ... I'm currently at the Back-End module, learning MongoDB<br>
 - ✨ I'm an enthusiast of collaborative work. Always learning new things, about different subjects, is my fuel! 🔥<br>
 - 🐶 Fun fact: I love animals and I own of several pets <br><br>
 
