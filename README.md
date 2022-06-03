@@ -28,7 +28,7 @@
 <div align="left"><br><br>
 <a href="https://github.com/amzotelli">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=amzotelli&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&hide=issues&count_private=true" />    
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amzotelli&layout=compact&theme=tokyonight&border_radius=7&hide_border=true&count_private=true&langs_count=10"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amzotelli&layout=compact&theme=tokyonight&border_radius=7&hide_border=true&count_private=true" />
 </div>
   <br>
  
