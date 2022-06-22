@@ -6,12 +6,12 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amzotelli@gmail.com)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-forestgreen?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/amzotelli)
 
-- 🙋 I'm Amanda and my pronouns are she/her<br>
-- 💻 I'm a Graphic Designer in career transition to Full Stack Development<br>
-- 👩‍🎓 I study Software Development at <a href="https://github.com/betrybe"><b>Trybe</b></a> where...</br> 
-- 🔡 ... I'm currently at the final module - Computer Science, learning Python<br>
-- ✨ I love studying and constantly learning new things is something that drives me :)<br>
-- 🐶 Fun fact: I love animals and I own of several pets <br><br>
+- 🙋  I'm Amanda and my pronouns are she/her<br>
+- 💻  I'm a ~~junior~~ Frontend Developer & Graphic Designer<br>
+- 👩‍🎓  I study Software Development at <a href="https://github.com/betrybe"><b>Trybe</b></a> where I'm currently at the final module - Computer Science -  learning `Python`<br>
+- 📚  At work, I'm studying `Angular`
+- ✨  I love studying and constantly learning new things is something that drives me :)<br>
+- 🐶  Fun fact: I love animals and I own of several pets <br><br>
 
 #### ``` • 𝚂𝚔𝚒𝚕𝚕𝚜```
 
