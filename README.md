@@ -9,7 +9,7 @@
 - 🙋  I'm Amanda and my pronouns are she/her<br>
 - 💻  I'm a ~~junior~~ Frontend Developer & Graphic Designer<br>
 - 👩‍🎓  I study Software Development at <a href="https://github.com/betrybe"><b>Trybe</b></a> where I'm currently at the final module - Computer Science -  learning `Python`<br>
-- 📚  At work, I'm studying `Angular`
+- 📚  At work, I'm learning `Angular`
 - ✨  I love studying and constantly learning new things is something that drives me :)<br>
 - 🐶  Fun fact: I love animals and I own of several pets <br><br>
 
